@@ -1,0 +1,13 @@
+C:\Users\RAMON\source\repos\Lab 7 - Regular Expressions\Lab 7 - Regular Expressions\bin\Debug\netcoreapp3.1\Lab 7 - Regular Expressions.exe
+C:\Users\RAMON\source\repos\Lab 7 - Regular Expressions\Lab 7 - Regular Expressions\bin\Debug\netcoreapp3.1\Lab 7 - Regular Expressions.deps.json
+C:\Users\RAMON\source\repos\Lab 7 - Regular Expressions\Lab 7 - Regular Expressions\bin\Debug\netcoreapp3.1\Lab 7 - Regular Expressions.runtimeconfig.json
+C:\Users\RAMON\source\repos\Lab 7 - Regular Expressions\Lab 7 - Regular Expressions\bin\Debug\netcoreapp3.1\Lab 7 - Regular Expressions.runtimeconfig.dev.json
+C:\Users\RAMON\source\repos\Lab 7 - Regular Expressions\Lab 7 - Regular Expressions\bin\Debug\netcoreapp3.1\Lab 7 - Regular Expressions.dll
+C:\Users\RAMON\source\repos\Lab 7 - Regular Expressions\Lab 7 - Regular Expressions\bin\Debug\netcoreapp3.1\Lab 7 - Regular Expressions.pdb
+C:\Users\RAMON\source\repos\Lab 7 - Regular Expressions\Lab 7 - Regular Expressions\obj\Debug\netcoreapp3.1\Lab 7 - Regular Expressions.csprojAssemblyReference.cache
+C:\Users\RAMON\source\repos\Lab 7 - Regular Expressions\Lab 7 - Regular Expressions\obj\Debug\netcoreapp3.1\Lab 7 - Regular Expressions.AssemblyInfoInputs.cache
+C:\Users\RAMON\source\repos\Lab 7 - Regular Expressions\Lab 7 - Regular Expressions\obj\Debug\netcoreapp3.1\Lab 7 - Regular Expressions.AssemblyInfo.cs
+C:\Users\RAMON\source\repos\Lab 7 - Regular Expressions\Lab 7 - Regular Expressions\obj\Debug\netcoreapp3.1\Lab 7 - Regular Expressions.csproj.CoreCompileInputs.cache
+C:\Users\RAMON\source\repos\Lab 7 - Regular Expressions\Lab 7 - Regular Expressions\obj\Debug\netcoreapp3.1\Lab 7 - Regular Expressions.dll
+C:\Users\RAMON\source\repos\Lab 7 - Regular Expressions\Lab 7 - Regular Expressions\obj\Debug\netcoreapp3.1\Lab 7 - Regular Expressions.pdb
+C:\Users\RAMON\source\repos\Lab 7 - Regular Expressions\Lab 7 - Regular Expressions\obj\Debug\netcoreapp3.1\Lab 7 - Regular Expressions.genruntimeconfig.cache
