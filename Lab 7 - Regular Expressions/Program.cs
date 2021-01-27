@@ -15,6 +15,7 @@ namespace Lab_7___Regular_Expressions
 
         }
 
+        // prompt user to enter input again if not valid entry
         public static string GetInput(string message)
         {
             Console.WriteLine(message);
@@ -89,6 +90,7 @@ namespace Lab_7___Regular_Expressions
             return false;
         }
 
+        // validate html elements
         public static bool ValidateHtml(string html)
         {
             if (Regex.IsMatch(html, @"^<[a-z0-9]+><\/[a-z0-9]+>$"))
